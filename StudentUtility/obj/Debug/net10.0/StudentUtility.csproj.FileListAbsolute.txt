@@ -1,0 +1,11 @@
+/Users/apurvasharan/Desktop/DevOps/jenkins-cicd-demo/StudentUtility/bin/Debug/net10.0/StudentUtility.deps.json
+/Users/apurvasharan/Desktop/DevOps/jenkins-cicd-demo/StudentUtility/bin/Debug/net10.0/StudentUtility.dll
+/Users/apurvasharan/Desktop/DevOps/jenkins-cicd-demo/StudentUtility/bin/Debug/net10.0/StudentUtility.pdb
+/Users/apurvasharan/Desktop/DevOps/jenkins-cicd-demo/StudentUtility/obj/Debug/net10.0/StudentUtility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apurvasharan/Desktop/DevOps/jenkins-cicd-demo/StudentUtility/obj/Debug/net10.0/StudentUtility.AssemblyInfoInputs.cache
+/Users/apurvasharan/Desktop/DevOps/jenkins-cicd-demo/StudentUtility/obj/Debug/net10.0/StudentUtility.AssemblyInfo.cs
+/Users/apurvasharan/Desktop/DevOps/jenkins-cicd-demo/StudentUtility/obj/Debug/net10.0/StudentUtility.csproj.CoreCompileInputs.cache
+/Users/apurvasharan/Desktop/DevOps/jenkins-cicd-demo/StudentUtility/obj/Debug/net10.0/StudentUtility.dll
+/Users/apurvasharan/Desktop/DevOps/jenkins-cicd-demo/StudentUtility/obj/Debug/net10.0/refint/StudentUtility.dll
+/Users/apurvasharan/Desktop/DevOps/jenkins-cicd-demo/StudentUtility/obj/Debug/net10.0/StudentUtility.pdb
+/Users/apurvasharan/Desktop/DevOps/jenkins-cicd-demo/StudentUtility/obj/Debug/net10.0/ref/StudentUtility.dll
