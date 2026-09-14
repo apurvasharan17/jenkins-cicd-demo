@@ -6,6 +6,6 @@ public class UnitTest1
     public void AddNumbers_ReturnsCorrectResult()
     {
         var result = StudentHelper.AddNumbers(2, 3);
-        Assert.Equal(10, result);
+        Assert.Equal(5, result);
     }
 }
